@@ -5,6 +5,10 @@
     background: none;
 }
 
+link[rel="icon"] {
+    href: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK6DZAcVLKglkihJupfJMws77ql1vLbacakw&s");
+}
+
 .login-pf body {
     background: url("../img/keycloak-bg.png") no-repeat center center fixed;
     background-size: cover;
