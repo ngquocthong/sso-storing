@@ -10,7 +10,7 @@ link[rel="icon"] {
 }
 
 .login-pf body {
-    background: url("../img/keycloak-bg.png") no-repeat center center fixed;
+    background: url("https://img.freepik.com/free-photo/futuristic-metaverse-empty-room-product-display-presentation-abstract-technology-scifi-with-neon-light-3d-background_56104-2314.jpg") no-repeat center center fixed;
     background-size: cover;
     height: 100%;
 }
